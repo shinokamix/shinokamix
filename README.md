@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">software developer. crypto enthusiast.<br>19 y.o. Russia.</p>
+<p align="left">software developer.<br>19 y.o. Russia.</p>
 
 ###
 
