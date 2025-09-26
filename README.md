@@ -8,4 +8,4 @@
 
 ###
 
-<p align="left">software developer.<br>20 y.o. Russia.</p>
+<p align="left">fullstack developer.<br>20 y.o. Russia.</p>
