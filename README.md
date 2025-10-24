@@ -8,4 +8,4 @@
 
 ###
 
-<p align="left">fullstack developer.<br>20 y.o. Russia.</p>
+<p align="left">frontend developer.<br>20 y.o. Kazan, Russia.</p>
