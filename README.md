@@ -4,8 +4,8 @@
 
 ###
 
-<h2 align="left">Nail Abdullin</h2>
+<h2 align="left">About</h2>
 
 ###
 
-<p align="left">frontend developer.<br>20. Kazan, Russia.</p>
+<p align="left">I aim to grow as a frontend developer by deepening my expertise in React, TypeScript, and modern web application architecture. <br> My goal is to reach the level of Senior Developer or Team Lead</p>
