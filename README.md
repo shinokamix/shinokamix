@@ -4,8 +4,8 @@
 
 ###
 
-<h2 align="left">shinokami</h2>
+<h2 align="left">Nail Abdullin</h2>
 
 ###
 
-<p align="left">frontend developer.<br>20 y.o. Kazan, Russia.</p>
+<p align="left">frontend developer.<br>20. Kazan, Russia.</p>
