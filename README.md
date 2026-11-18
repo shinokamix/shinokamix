@@ -1,6 +1,3 @@
-
-```
-building interfaces and the products behind them
-exploring what AI makes possible
+building interfaces and the products behind them<br>
+exploring what AI makes possible<br>
 open to new opportunities
-```
